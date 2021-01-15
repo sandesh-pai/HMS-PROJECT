@@ -15,6 +15,9 @@ public class test {
 	public void test1()
 	{
 		System.out.println("hello");
+		System.out.println("hello i updated the HMS PROJECT");
+		System.out.println("postman jira 1");
+		System.out.println("postman jira 2");
 	}
 
 }
